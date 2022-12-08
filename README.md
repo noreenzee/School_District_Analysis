@@ -14,15 +14,17 @@ In deliverable 3 summary statistics of reading and maths are as follow. There we
 
 In deliverable 4 loc function work perfectly to display grade column and `iloc` function display the first 3 rows and columns 3, 4, and 5.
 
-As shown in this img:
-image.png
+As shown in this img: ![image](https://user-images.githubusercontent.com/112978144/206323734-3aa7fb91-1e31-433c-86c3-032a58ced180.png)
+
+
 
 
 
 Loc with condition function is used to get reading scores of 10th graders at Dixon High School
 
 Groupby function is used to run following code:
-image.png
+![image](https://user-images.githubusercontent.com/112978144/206323919-a9c29ba9-5415-4468-9b75-dfa0d5424b8b.png)
+
 
 
 
