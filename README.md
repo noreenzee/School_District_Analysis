@@ -23,7 +23,8 @@ As shown in this img: ![image](https://user-images.githubusercontent.com/1129781
 Loc with condition function is used to get reading scores of 10th graders at Dixon High School
 
 Groupby function is used to run following code:
-![image](https://user-images.githubusercontent.com/112978144/206323919-a9c29ba9-5415-4468-9b75-dfa0d5424b8b.png)
+
+![image](https://user-images.githubusercontent.com/112978144/207428745-dc3e593f-894e-4b10-8aa7-860c668630e8.png)
 
 
 
