@@ -6,10 +6,19 @@ Resources:
     In this challenge there were two csv files to work on student data and school data that was combined in one file and information was provided in different columns.
 
 
-While working on this project first Data is loaded using os.path.join. Then it is checked if there are any null values using “isnull” function. “Dropna” function is used to drop rows with null values, for duplicated rows, duplicate.sum function is used and got 2168 duplicated rows, “dtype” function is used to check data type and to change datatype ‘astype’ function is used. 
+While working on this project first Data is loaded using os.path.join. Then it is checked if there are any null values using “isnull” function. “Dropna” function is used to drop rows with null values.
+
+![image](https://user-images.githubusercontent.com/112978144/207429143-d54c10d3-7a8c-4254-8f80-19698514ad08.png)
+
+
+
+for duplicated rows, duplicate.sum function is used and got 2168 duplicated rows, “dtype” function is used to check data type and to change datatype ‘astype’ function is used. 
 Summary statistics:
 
-In deliverable 3 summary statistics of reading and maths are as follow. There were 64. 715899891 mean math score,  and minimum reading scores were 10.5.
+
+In deliverable 3 summary statistics of reading and maths are as follow.  the mean math score using the mean function were 64.67573326141189. Other statistics are as follow:
+![image](https://user-images.githubusercontent.com/112978144/207429388-abea28bc-a5e8-47fb-9c54-34aa283d7d7a.png)
+
 
 
 In deliverable 4 loc function work perfectly to display grade column and `iloc` function display the first 3 rows and columns 3, 4, and 5.
